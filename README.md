@@ -1,5 +1,5 @@
 # EBV1_project_jun18
-EtherBlade.net Ver1 project (ver:jun18)
+EtherBlade.net Ver1 project (jun18)
 
 The aim of “EtherBlade.net Ver1” project is to build an FPGA-based universal line-rate ethernet over IP encapsulator – the network overlay appliance that can create L2 virtual ethernet links over L3 network (EoIP, EoMPLS, VxLAN, PBB etc).
 
