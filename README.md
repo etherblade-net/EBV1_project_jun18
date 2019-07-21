@@ -9,4 +9,4 @@ This functionality implemented in “Etherblade.net Ver1” makes encapsulator �
 
 Please watch this video explaining operational principles of the system followed by the demonstration of the working hardware:
 
-[![EtherBlade.net V1 – universal ethernet encapsulator hardware core](https://img.youtube.com/vi/QCqwg6KuyCg/sddefault.jpg)](https://www.youtube.com/watch?v=QCqwg6KuyCg "EtherBlade.net V1 – universal ethernet encapsulator hardware core")
+[![EtherBlade.net V1 – universal ethernet encapsulator hardware core](https://img.youtube.com/vi/QCqwg6KuyCg/0.jpg)](https://www.youtube.com/watch?v=QCqwg6KuyCg "EtherBlade.net V1 – universal ethernet encapsulator hardware core")
